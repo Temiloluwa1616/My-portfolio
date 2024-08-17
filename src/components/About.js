@@ -25,7 +25,7 @@ const About = () => {
         viewport={{once:false, amount: 0.3}}className='flex-1'>
           <h2 className='h2 text-accent'>About Me</h2>
           <h3 className='h3 mb-2'>I'm a Freelance Front End Developer with 3 Years of Experience</h3>
-          <p>Hi! I’m Sulaiman Temiloluwa, a developer and designer who loves creating websites and apps that are both easy to use and visually appealing. I enjoy combining creativity with technical skills to bring ideas to life, whether it’s through coding or design.
+          <p>Hi! I’m Sulaiman Temiloluwa, a developer and designer who loves creating websites and apps that are responsive, user friendly,  easy to use, convene the thorough information about your company and visually appealing. I enjoy combining creativity with technical skills to bring ideas to life, whether it’s through coding or design.
 
 I focus on making sure that the things I build not only work well but also look great. I’m always learning new ways to improve and keep up with the latest trends, so I can bring fresh ideas to every project I work on.
 
