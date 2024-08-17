@@ -7,7 +7,7 @@ const Header = () => {
     <div className='container mx-auto'>
       <div className='flex justify-between items-center'>
        <a href='#'>
-        <h1 className='h2 text-accent font-bold'>Sulaiman <br/> <span className='text-white'>Temiloluwa</span></h1>
+        <h1 className='h2 text-accent font-bold text-[1rem] lg:text-[2rem]'>Sulaiman <br/> <span className='text-white'>Temiloluwa</span></h1>
        </a>
        <button className='btn btn-sm'>Work With Me</button>
       </div>

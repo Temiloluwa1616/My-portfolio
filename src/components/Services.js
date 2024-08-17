@@ -25,7 +25,7 @@ const services = [
 
 const Services = () => {
   return <section id='services' className='section '>
-    <div className='container mx-auto mt-[10rem] lg:mt-[5rem]'>
+    <div className='container mx-auto mt-[20rem] lg:mt-[5rem]'>
       <div className='flex flex-col  lg:flex-row '>
         {/* text */}
 
@@ -64,7 +64,7 @@ const Services = () => {
             {services.map((service,index)=>{
               const {name, description,link} = service
               return(
-                <div className='border-b border-white/20 h-[170px] mb-[20px] flex' key={index}>
+                <div className='border-b border-white/20 h-[15rem] mb-[6rem] flex lg:mb-0 lg:h-[176px]' key={index}>
                  <div className='max-w-[476px]'>
                   <h4 className='text-[20px] tracking-wider font-primary font-semibold mb-6'>{name}</h4>
                   <p className='font-secondary leading-tight'>{description}</p>
